@@ -48,7 +48,7 @@ def create_app(test_config=None):
 
 
     @app.route('/questions', methods=['GET'])
-    def retrieve_categories():
+    def retrieve_questions():
         selection = Question.query.order_by(Question.id).all()
         current_questions = paginate_selection(request, selection)
         categories = Category.query.order_by(Category.id).all()
@@ -204,4 +204,3 @@ def create_app(test_config=None):
 
 
     return app
-
