@@ -20,7 +20,7 @@ So as a pro at API development and everything Python (Web/Mobile/Ai), I had to j
 
 ## The Milestone
 
-Completing this trivia app will give me the ability to structure plan, implement, and test an API - skills essential for enabling my future applications to communicate with others in the tech industry.
+Completing this trivia app will give me the ability to structure, plan, implement, and test an API - skills essential for enabling my future applications to communicate with others in the tech industry.
 
 ## Dependencies
 ### Backend
